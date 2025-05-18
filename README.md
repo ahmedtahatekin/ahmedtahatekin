@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Merhaba, ben Ahmed Taha Tekin
 
-<!--
-**ahmedtahatekin/ahmedtahatekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+15 yaşındayım ve Python geliştiricisiyim. Yazılım öğrenmeyi çok seviyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hedeflerim
+- Python’da uzmanlaşmak
+- Web geliştirmeye başlamak
+- Gerçek projeler üretip paylaşmak
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Şu an ne yapıyorum?
+- Küçük Python projeleri geliştiriyorum
+- GitHub portföyümü oluşturuyorum
+
+## 📫 İletişim
+Bana GitHub üzerinden ulaşabilirsiniz: [@ahmedtahatekin](https://github.com/ahmedtahatekin)
